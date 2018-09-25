@@ -11,6 +11,8 @@
 
 # misc
 /coverage/
+/.history/
+/.vscode/
 
 # ember-try
 /.node_modules.ember-try/

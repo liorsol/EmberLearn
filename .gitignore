@@ -11,6 +11,7 @@
 # misc
 /.sass-cache
 /.history
+/.vscode
 /connect.lock
 /coverage/
 /libpeerconnection.log
